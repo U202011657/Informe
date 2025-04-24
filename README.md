@@ -19,7 +19,7 @@
  - Mendoza Solis, Javier Kenyi - U201824550
  - Calixto Iriarte, David Alejandro - U20201B441
  - Carhuancote Domniguez, Gonzalo Alonso - U202210720
- - 
+ - Calle Huayanca,Adrian Alonso
  
  ## Historial de Versiones
  
